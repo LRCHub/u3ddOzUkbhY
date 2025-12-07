@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "South Side",
+  "base_artist": "YZERR",
+  "createdAt": "2025-12-07T06:41:50.506895Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "South Side",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/01_South_Side_Moby.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "South Side (Pete Heller Park Lane vocal)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/02_South_Side_(Pete_Heller_Park_Lane_vocal)_Moby.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "South Side (album version)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/03_South_Side_(album_version)_Moby.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "South Side (Hybrid Dishing Pump remix)",
+      "artist": "Moby feat. Gwen Stefani",
+      "has_synced": false,
+      "path": "select/04_South_Side_(Hybrid_Dishing_Pump_remix)_Moby_feat._Gwen_Stefani.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "South Side (feat. Gwen Stefani) (Hybrid Dishing Pump remix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/05_South_Side_(feat._Gwen_Stefani)_(Hybrid_Dishing_Pump_remix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "South Side (single version)",
+      "artist": "Moby feat. Gwen Stefani",
+      "has_synced": false,
+      "path": "select/06_South_Side_(single_version)_Moby_feat._Gwen_Stefani.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "South Side (feat. Gwen Stefani) (single version)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/07_South_Side_(feat._Gwen_Stefani)_(single_version)_Moby.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "South Side",
+      "artist": "Fun Lovin' Criminals",
+      "has_synced": false,
+      "path": "select/08_South_Side_Fun_Lovin'_Criminals.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "South Side of the Sky",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/09_South_Side_of_the_Sky_Yes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "South Side $Uicide",
+      "artist": "$uicide Boy$ feat. Pouya",
+      "has_synced": true,
+      "path": "select/10_South_Side_$Uicide_$uicide_Boy$_feat._Pouya.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "South Side $uicide (Feat. Pouya)",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/11_South_Side_$uicide_(Feat._Pouya)_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "South Side",
+      "artist": "Uyama Hiroto feat. Shing02",
+      "has_synced": true,
+      "path": "select/12_South_Side_Uyama_Hiroto_feat._Shing02.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "South Side of the Sky",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/13_South_Side_of_the_Sky_Yes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "South Side",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/14_South_Side_Moby.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "South Side Of Dixie",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/15_South_Side_Of_Dixie_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "South Side",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/16_South_Side_Moby.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "South Side Midnight Lady",
+      "artist": "The Doobie Brothers",
+      "has_synced": true,
+      "path": "select/17_South_Side_Midnight_Lady_The_Doobie_Brothers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "South Side",
+      "artist": "YZERR",
+      "has_synced": false,
+      "path": "select/pl_01_South_Side_YZERR.txt"
+    }
+  ]
+}
